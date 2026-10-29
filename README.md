@@ -43,11 +43,7 @@ src/
 ```
 
 ## Laporan Testing
-Jalankan `npm test`, lalu simpan screenshot terminal ke `screenshots/test-report.png`.
-
-![Hasil Test](screenshots/test-report.png)
-
-Total **13 test** (hooks, komponen, integrasi).
+Hasil testing ada di assets
 
 ## Screenshoot 
 hasil screenshoot ada di assets
