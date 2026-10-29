@@ -18,15 +18,6 @@ npm run build    # build produksi
 lalu `npm install react-router-dom prop-types` dan
 `npm install -D vitest @testing-library/react @testing-library/jest-dom jsdom`.)
 
-## Screenshot
-> Simpan screenshot di folder `screenshots/` dengan nama berikut.
-
-| Halaman | Gambar |
-|---|---|
-| Beranda | ![Beranda](screenshots/home.png) |
-| Validasi Form | ![Validasi](screenshots/validation.png) |
-| Statistik | ![Statistik](screenshots/stats.png) |
-
 ## Fitur React yang Digunakan
 | Konsep | Lokasi |
 |---|---|
@@ -57,3 +48,6 @@ Jalankan `npm test`, lalu simpan screenshot terminal ke `screenshots/test-report
 ![Hasil Test](screenshots/test-report.png)
 
 Total **13 test** (hooks, komponen, integrasi).
+
+## Screenshoot 
+hasil screenshoot ada di assets
