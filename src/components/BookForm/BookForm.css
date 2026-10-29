@@ -1,0 +1,4 @@
+.book-form label { display: block; margin: .7rem 0 .25rem; font-weight: 600; }
+.input-error { border-color: #dc2626 !important; background: #fef2f2; }
+.error-text { color: #dc2626; font-size: .85rem; }
+.form-actions { margin-top: 1rem; display: flex; gap: .5rem; }

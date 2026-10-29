@@ -1,0 +1,10 @@
+.book-list { list-style: none; padding: 0; }
+.book-item { display: flex; justify-content: space-between; align-items: center; }
+.book-item h3 { margin: 0 0 .2rem; }
+.book-item p { margin: 0 0 .4rem; color: #6b7280; }
+.book-actions { display: flex; gap: .4rem; }
+.badge { padding: .15rem .6rem; border-radius: 99px; font-size: .8rem; color: #fff; }
+.badge-milik { background: #16a34a; }
+.badge-baca { background: #d97706; }
+.badge-beli { background: #7c3aed; }
+.empty { text-align: center; color: #6b7280; }
